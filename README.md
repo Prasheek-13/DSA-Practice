@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/Prasheek-13/DSA-Practice/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasheek-13/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Prasheek-13/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -66,14 +67,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prasheek-13/DSA-Practice/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Prasheek-13/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prasheek-13/DSA-Practice/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prasheek-13/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Prasheek-13/DSA-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
