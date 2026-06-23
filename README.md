@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Prasheek-13/DSA-Practice/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [1732-find-the-highest-altitude](https://github.com/Prasheek-13/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Prasheek-13/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
