@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
