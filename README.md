@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Prasheek-13/DSA-Practice/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Prasheek-13/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -88,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Prasheek-13/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
