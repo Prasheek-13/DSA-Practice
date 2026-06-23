@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Prasheek-13/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
