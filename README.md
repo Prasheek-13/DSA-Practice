@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
 | [0134-gas-station](https://github.com/Prasheek-13/DSA-Practice/tree/master/0134-gas-station) |
+| [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
@@ -35,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Prasheek-13/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
