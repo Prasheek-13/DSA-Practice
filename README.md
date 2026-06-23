@@ -10,9 +10,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/Prasheek-13/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Prasheek-13/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -29,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Prasheek-13/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
