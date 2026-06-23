@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Prasheek-13/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Prasheek-13/DSA-Practice/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Prasheek-13/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Prasheek-13/DSA-Practice/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasheek-13/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Prasheek-13/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Prasheek-13/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Prasheek-13/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prasheek-13/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prasheek-13/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Design
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prasheek-13/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Prasheek-13/DSA-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
