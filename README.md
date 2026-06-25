@@ -123,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Prasheek-13/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Prasheek-13/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Prasheek-13/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Prasheek-13/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Prasheek-13/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 ## Binary Search
 |  |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Prasheek-13/DSA-Practice/tree/master/0938-range-sum-of-bst) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
