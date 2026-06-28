@@ -17,11 +17,10 @@ public:
         if (root == NULL) {
             return 0;
         }
-
         int leftsum = helper(root->left);
         int rightsum = helper(root->right);
-        int tilt = abs(leftsum - rightsum);
-        ans += tilt;
+        int tilts = abs(leftsum - rightsum);
+        ans += tilts;
         return leftsum + rightsum + root->val;
     }
     int findTilt(TreeNode* root) {
