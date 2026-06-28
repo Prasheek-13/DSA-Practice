@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prasheek-13/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Prasheek-13/DSA-Practice/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Prasheek-13/DSA-Practice/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasheek-13/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Prasheek-13/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Prasheek-13/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -174,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
