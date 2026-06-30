@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Prasheek-13/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Prasheek-13/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Prasheek-13/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Prasheek-13/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prasheek-13/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Prasheek-13/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Prasheek-13/DSA-Practice/tree/master/0938-range-sum-of-bst) |
 ## Binary Search
 |  |
