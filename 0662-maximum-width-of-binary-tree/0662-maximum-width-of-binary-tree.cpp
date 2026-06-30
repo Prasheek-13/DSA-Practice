@@ -14,13 +14,14 @@ class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
         queue<pair<TreeNode*, long long>> q;
+        int maxwidth = 0;
         q.push({root, 0});
-        int maxWidth = 0;
         while (!q.empty()) {
             int n = q.size();
             long long startidx = q.front().second;
             long long endidx = q.back().second;
-            maxWidth = max(maxWidth, (int)(endidx - startidx) + 1);
+            maxwidth = max(maxwidth, (int)(endidx - startidx) + 1);
+
             for (int i = 0; i < n; i++) {
                 auto curr = q.front();
                 q.pop();
@@ -33,6 +34,6 @@ public:
                 }
             }
         }
-        return maxWidth;
+        return maxwidth;
     }
 };
