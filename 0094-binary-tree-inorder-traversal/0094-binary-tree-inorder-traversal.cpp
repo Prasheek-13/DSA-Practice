@@ -12,12 +12,9 @@
  */
 class Solution {
 public:
-    vector<int> ans = {};
     vector<int> inorderTraversal(TreeNode* root) {
-        if (root == NULL) {
-            return ans;
-        }
         TreeNode* curr = root;
+        vector<int> ans;
         while (curr != NULL) {
             if (curr->left == NULL) {
                 ans.push_back(curr->val);
