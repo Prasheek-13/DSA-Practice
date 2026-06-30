@@ -21,11 +21,7 @@ public:
 
         inorderTraversal(root->left);
         ans.push_back(root->val);
-
-        //  ans.push_back(root->val);
-
         inorderTraversal(root->right);
-        // ans.push_back(root->val);
 
         return ans;
     }
