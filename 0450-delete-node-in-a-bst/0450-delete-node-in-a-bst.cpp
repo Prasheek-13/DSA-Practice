@@ -12,22 +12,21 @@
  */
 class Solution {
 public:
-    TreeNode*
-    getinordersuccessor(TreeNode* root) { // leftmost node in right subtree
+    TreeNode* getinordersccessor(TreeNode* root) {
         while (root != NULL && root->left != NULL) {
             root = root->left;
         }
         return root;
     }
 
-    TreeNode* deleteNode(TreeNode* root, int val) {
+    TreeNode* deleteNode(TreeNode* root, int key) {
         if (root == NULL) {
             return NULL;
         }
-        if (root->val > val) {
-            root->left = deleteNode(root->left, val);
-        } else if (root->val < val) {
-            root->right = deleteNode(root->right, val);
+        if (root->val > key) {
+            root->left = deleteNode(root->left, key);
+        } else if (root->val < key) {
+            root->right = deleteNode(root->right, key);
         } else {
             if (root->left == NULL) {
                 TreeNode* temp = root->right;
@@ -38,7 +37,7 @@ public:
                 delete root;
                 return temp;
             } else {
-                TreeNode* IS = getinordersuccessor(root->right);
+                TreeNode* IS = getinordersccessor(root->right);
                 root->val = IS->val;
                 root->right = deleteNode(root->right, IS->val);
             }
