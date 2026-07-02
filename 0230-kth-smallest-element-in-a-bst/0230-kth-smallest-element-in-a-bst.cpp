@@ -12,26 +12,27 @@
  */
 class Solution {
 public:
-    vector<int> ans = {};
-    TreeNode* inorder(TreeNode* root) {
-        if (root == NULL) {
-            return root;
-        }
-        inorder(root->left);
-        ans.push_back(root->val);
-        inorder(root->right);
-        return root;
-    }
+    int preOrder = 0;
     int kthSmallest(TreeNode* root, int k) {
-        inorder(root);
-        int n = ans.size();
-        int finans = 0;
-        if (k != 0) {
-            finans = ans[k - 1];
+        if (root == NULL) {
+            return -1;
         }
-        if (k == 0) {
-            return ans[0];
+        if (root->left != NULL) {
+            int leftAns = kthSmallest(root->left, k);
+            if (leftAns != -1) {
+                return leftAns;
+            }
         }
-        return finans;
+        if (preOrder + 1 == k) {
+            return root->val;
+        }
+        preOrder = preOrder + 1;
+        if (root->right != NULL) {
+            int rightAns = kthSmallest(root->right, k);
+            if (rightAns != -1) {
+                return rightAns;
+            }
+        }
+        return -1;
     }
 };
