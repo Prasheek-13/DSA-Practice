@@ -27,8 +27,22 @@ public:
         inorder(root1, Root1);
         inorder(root2, Root2);
         vector<int> result;
-        merge(Root1.begin(), Root1.end(), Root2.begin(), Root2.end(),
-              back_inserter(result));
+        int i = 0, j = 0;
+        while (i < Root1.size() && j < Root2.size()) {
+            if (Root1[i] < Root2[j]) {
+                result.push_back(Root1[i++]);
+            } else {
+                result.push_back(Root2[j++]);
+            }
+        }
+        while (i < Root1.size()) {
+            result.push_back(Root1[i++]);
+        }
+        while (j < Root2.size()) {
+            result.push_back(Root2[j++]);
+        }
+        /* merge(Root1.begin(), Root1.end(), Root2.begin(), Root2.end(),
+               back_inserter(result));*/
         return result;
     }
 };
