@@ -27,7 +27,6 @@ public:
         inorder(root1, Root1);
         inorder(root2, Root2);
         vector<int> result;
-
         merge(Root1.begin(), Root1.end(), Root2.begin(), Root2.end(),
               back_inserter(result));
         return result;
