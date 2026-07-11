@@ -17,9 +17,9 @@ public:
         while (!pq.empty()) {
             int u = pq.top().second;
             pq.pop();
-            for (auto e : adj[u]) {
-                int v = e.first;
-                int wt = e.second;
+            for (auto p : adj[u]) {
+                int v = p.first;
+                int wt = p.second;
                 if (dist[v] > dist[u] + wt) {
                     dist[v] = dist[u] + wt;
                     pq.push({dist[v], v});
