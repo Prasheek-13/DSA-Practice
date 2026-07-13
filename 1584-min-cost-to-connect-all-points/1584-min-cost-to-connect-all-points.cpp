@@ -29,7 +29,9 @@ public:
                 for (int i = 0; i < adj[u].size(); i++) {
                     int v = adj[u][i].first;
                     int w = adj[u][i].second;
-                    pq.push({w, v});
+                    if (!InMST[v]) {
+                        pq.push({w, v});
+                    }
                 }
             }
         }
