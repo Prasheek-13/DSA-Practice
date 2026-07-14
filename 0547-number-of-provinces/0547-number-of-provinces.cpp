@@ -9,7 +9,7 @@ public:
             rank.push_back(0);
         }
     }
-    void unionByRank(int a, int b) {
+    void UnionByRank(int a, int b) {
         int parA = find(a);
         int parB = find(b);
         if (parA == parB) {
@@ -35,24 +35,20 @@ class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-
         DisJointSetUnion dsu(n);
-
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 if (isConnected[i][j] == 1) {
-                    dsu.unionByRank(i, j);
+                    dsu.UnionByRank(i, j);
                 }
             }
         }
-
         int provinces = 0;
-
         for (int i = 0; i < n; i++) {
-            if (dsu.find(i) == i)
+            if (dsu.find(i) == i) {
                 provinces++;
+            }
         }
-
         return provinces;
     }
 };
