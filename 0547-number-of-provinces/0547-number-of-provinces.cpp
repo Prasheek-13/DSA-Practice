@@ -3,7 +3,6 @@ public:
     int n;
     vector<int> par, rank;
     DisJointSetUnion(int n) {
-        this->n = n;
         for (int i = 0; i < n; i++) {
             par.push_back(i);
             rank.push_back(0);
