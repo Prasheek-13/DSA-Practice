@@ -1,53 +1,23 @@
-class DisJointSetUnion {
-public:
-    int n;
-    vector<int> par, rank;
-    DisJointSetUnion(int n) {
-        for (int i = 0; i < n; i++) {
-            par.push_back(i);
-            rank.push_back(0);
-        }
-    }
-    void UnionByRank(int a, int b) {
-        int parA = find(a);
-        int parB = find(b);
-        if (parA == parB) {
-            return;
-        }
-        if (rank[parA] == rank[parB]) {
-            par[parB] = parA;
-            rank[parA]++;
-        } else if (rank[parA] > rank[parB]) {
-            par[parB] = parA;
-        } else {
-            par[parA] = parB;
-        }
-    }
-    int find(int x) {
-        if (par[x] == x) {
-            return x;
-        }
-        return par[x] = find(par[x]);
-    }
-};
 class Solution {
 public:
+    void dfs(int i, vector<vector<int>>& adj, vector<bool>& vis) {
+        vis[i] = true;
+        for (int j = 0; j < adj[i].size(); j++) {
+            if (adj[i][j] == 1 && !vis[j]) {
+                dfs(j, adj, vis);
+            }
+        }
+    }
     int findCircleNum(vector<vector<int>>& isConnected) {
+        int numofpro = 0;
         int n = isConnected.size();
-        DisJointSetUnion dsu(n);
+        vector<bool> vis(n, false);
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (isConnected[i][j] == 1) {
-                    dsu.UnionByRank(i, j);
-                }
+            if (!vis[i]) {
+                dfs(i, isConnected, vis);
+                numofpro++;
             }
         }
-        int provinces = 0;
-        for (int i = 0; i < n; i++) {
-            if (dsu.find(i) == i) {
-                provinces++;
-            }
-        }
-        return provinces;
+        return numofpro;
     }
 };
