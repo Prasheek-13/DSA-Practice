@@ -4,7 +4,6 @@ public:
     vector<int> dt, low;
     void dfs(int u, int parU, vector<vector<int>>& adj,
              vector<vector<int>>& cc) {
-
         dt[u] = low[u] = ++time;
         for (int i = 0; i < adj[u].size(); i++) {
             int v = adj[u][i];
@@ -20,10 +19,8 @@ public:
             }
         }
     }
-
     vector<vector<int>> criticalConnections(int n,
                                             vector<vector<int>>& connections) {
-        // adj
         vector<vector<int>> adj(n);
         for (int i = 0; i < connections.size(); i++) {
             int u = connections[i][0];
