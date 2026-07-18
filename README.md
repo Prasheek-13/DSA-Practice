@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasheek-13/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prasheek-13/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Prasheek-13/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasheek-13/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/Prasheek-13/DSA-Practice/tree/master/1192-critical-connections-in-a-network) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prasheek-13/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Prasheek-13/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Prasheek-13/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasheek-13/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prasheek-13/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
