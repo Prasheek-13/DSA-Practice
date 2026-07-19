@@ -1,41 +1,41 @@
 class Solution {
 public:
-    bool dfs(int curr, vector<bool>& vis, vector<bool>& recpath,
-             vector<vector<int>>& adj, stack<int>& s) {
+    bool toposort(int curr, vector<bool>& vis, vector<bool>& recpath,
+                  stack<int>& s, vector<vector<int>>& adj) {
         vis[curr] = true;
         recpath[curr] = true;
         for (int v : adj[curr]) {
             if (!vis[v]) {
-                if (dfs(v, vis, recpath, adj, s)) {
+                if (toposort(v, vis, recpath, s, adj))
                     return true;
-                }
             } else if (recpath[v]) {
                 return true;
             }
         }
-        s.push(curr);
         recpath[curr] = false;
+        s.push(curr);
         return false;
     }
-    vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(n);
-        for (auto& p : prerequisites) {
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        for (auto p : prerequisites) {
             adj[p[1]].push_back(p[0]);
         }
-        vector<bool> vis(n, false);
-        vector<bool> recpath(n, false);
+        vector<bool> vis(numCourses, false);
+        vector<bool> recpath(numCourses, false);
         stack<int> s;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < numCourses; i++) {
             if (!vis[i]) {
-                if (dfs(i, vis, recpath, adj, s)) {
+                if (toposort(i, vis, recpath, s, adj)) {
                     return {};
                 }
             }
         }
         vector<int> ans;
         while (!s.empty()) {
-            ans.push_back(s.top());
+            int curr = s.top();
             s.pop();
+            ans.push_back(curr);
         }
         return ans;
     }
