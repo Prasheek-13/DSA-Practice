@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0733-flood-fill](https://github.com/Prasheek-13/DSA-Practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Prasheek-13/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasheek-13/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prasheek-13/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prasheek-13/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prasheek-13/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Prasheek-13/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prasheek-13/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Prasheek-13/DSA-Practice/tree/master/0684-redundant-connection) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Prasheek-13/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Prasheek-13/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Prasheek-13/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Graph Theory
