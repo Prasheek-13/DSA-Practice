@@ -1,14 +1,13 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        vector<vector<int>> ans(mat.size(), vector<int>(mat[0].size(), -1));
         int n = mat.size();
         int m = mat[0].size();
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        vector<vector<int>> ans(n, vector<int>(m, -1));
         queue<pair<pair<int, int>, int>> q;
-
-        for (int i = 0; i < mat.size(); i++) {
-            for (int j = 0; j < mat[0].size(); j++) {
+        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
                 if (mat[i][j] == 0) {
                     vis[i][j] = true;
                     q.push({{i, j}, 0});
@@ -23,25 +22,26 @@ public:
             q.pop();
             if (i - 1 >= 0 && !vis[i - 1][j]) {
                 vis[i - 1][j] = true;
-                ans[i - 1][j] = dist + 1;
                 q.push({{i - 1, j}, dist + 1});
-            }
-            if (i + 1 < n && !vis[i + 1][j]) {
-                vis[i + 1][j] = true;
-                ans[i + 1][j] = dist + 1;
-                q.push({{i + 1, j}, dist + 1});
+                ans[i - 1][j] = dist + 1;
             }
             if (j - 1 >= 0 && !vis[i][j - 1]) {
                 vis[i][j - 1] = true;
-                ans[i][j - 1] = dist + 1;
                 q.push({{i, j - 1}, dist + 1});
+                ans[i][j - 1] = dist + 1;
+            }
+            if (i + 1 < n && !vis[i + 1][j]) {
+                vis[i + 1][j] = true;
+                q.push({{i + 1, j}, dist + 1});
+                ans[i + 1][j] = dist + 1;
             }
             if (j + 1 < m && !vis[i][j + 1]) {
                 vis[i][j + 1] = true;
-                ans[i][j + 1] = dist + 1;
                 q.push({{i, j + 1}, dist + 1});
+                ans[i][j + 1] = dist + 1;
             }
         }
+
         return ans;
     }
 };
