@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/Prasheek-13/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prasheek-13/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Prasheek-13/DSA-Practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Prasheek-13/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Prasheek-13/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prasheek-13/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Prasheek-13/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prasheek-13/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prasheek-13/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prasheek-13/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
