@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> par;
     vector<int> rank;
+
     int find(int x) {
         if (par[x] == x) {
             return x;
@@ -18,7 +19,6 @@ public:
             rank[para]++;
         } else if (rank[para] > rank[parb]) {
             par[parb] = para;
-
         } else {
             par[para] = parb;
         }
@@ -38,12 +38,12 @@ public:
                 }
             }
         }
-        int components = 0;
+        int count = 0;
         for (int i = 0; i < n; i++) {
             if (find(i) == i) {
-                components++;
+                count++;
             }
         }
-        return n - components;
+        return n - count;
     }
 };
