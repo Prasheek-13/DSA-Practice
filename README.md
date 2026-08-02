@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prasheek-13/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prasheek-13/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prasheek-13/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prasheek-13/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Prasheek-13/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prasheek-13/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasheek-13/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -391,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prasheek-13/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prasheek-13/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
