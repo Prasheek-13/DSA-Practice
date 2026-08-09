@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Prasheek-13/DSA-Practice/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Prasheek-13/DSA-Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Prasheek-13/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prasheek-13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Prasheek-13/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Prasheek-13/DSA-Practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Prasheek-13/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasheek-13/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
