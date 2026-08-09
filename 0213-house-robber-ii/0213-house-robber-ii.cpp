@@ -2,13 +2,19 @@ class Solution {
 public:
     int helper(int st, int end, vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n - 1);
-        dp[0] = nums[st];
-        dp[1] = max(nums[st + 1], nums[st]);
-        for (int i = st + 2, j = 2; i <= end; i++, j++) {
-            dp[j] = max(nums[i] + dp[j - 2], dp[j - 1]);
+        // vector<int> dp(n - 1);
+        // dp[0] = nums[st];
+        // dp[1] = max(nums[st + 1], nums[st]);
+        int prev2 = nums[st];
+        int prev1 = max(nums[st + 1], nums[st]);
+        int result = prev1;
+
+        for (int i = st + 2; i <= end; i++) {
+            result = max(prev2 + nums[i], prev1);
+            prev2 = prev1;
+            prev1 = result;
         }
-        return dp[n - 2];
+        return result;
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
