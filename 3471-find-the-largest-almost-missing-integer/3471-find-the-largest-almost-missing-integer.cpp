@@ -22,7 +22,7 @@ public:
             sort(nums.begin(), nums.end());
             return nums[n - 1];
         } else {
-             if (freq[ori[0]] != 1 && freq[ori[n - 1]] != 1) {
+            if (freq[ori[0]] != 1 && freq[ori[n - 1]] != 1) {
                 return -1;
             }
             if (freq[ori[0]] != 1) {
@@ -31,7 +31,7 @@ public:
             if (freq[ori[n - 1]] != 1) {
                 return ori[0];
             }
-           
+
             return max(ori[0], ori[n - 1]);
         }
         return -1;
