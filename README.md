@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prasheek-13/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prasheek-13/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prasheek-13/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Prasheek-13/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prasheek-13/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prasheek-13/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Prasheek-13/DSA-Practice/tree/master/2029-stone-game-ix) |
@@ -468,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Prasheek-13/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prasheek-13/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
