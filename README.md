@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Prasheek-13/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prasheek-13/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Prasheek-13/DSA-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Prasheek-13/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prasheek-13/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Prasheek-13/DSA-Practice/tree/master/0134-gas-station) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prasheek-13/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Prasheek-13/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Prasheek-13/DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Prasheek-13/DSA-Practice/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
