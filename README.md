@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Prasheek-13/DSA-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Prasheek-13/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prasheek-13/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Prasheek-13/DSA-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Prasheek-13/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Prasheek-13/DSA-Practice/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasheek-13/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Prasheek-13/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0494-target-sum) |
 ## Iterator
 |  |
 | ------- |
@@ -467,10 +470,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Prasheek-13/DSA-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prasheek-13/DSA-Practice/tree/master/0494-target-sum) |
 ## Minimax
 |  |
 | ------- |
